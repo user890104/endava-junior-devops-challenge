@@ -4,12 +4,11 @@
 
 1) Fork this repository
 2) Chose your favorite scripting language and create script that will do the following
-  a) Create 10 random files
-  b) Save the content of google.com index page to file 
-  c) Print the count of characters inside the file from b)
-  d) List them 
-  e) Delete them 
-  f) Measure execution time
+  * Save the content of 10 random websites index pages to 10 files 
+  * Count number of matching lines with the string “href=” in each of the 10 files
+  * Save result of “href=” matches in new 10 files, using logical naming convention
+  * Delete the newly created 10 files with results
+  * Measure execution time
 3) Commit the code in the forked repository
 
 Dont forget to document it properly!
